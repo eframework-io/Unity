@@ -1,0 +1,3 @@
+[submodule "Packages/Unity.Utility"]
+	path = Packages/Unity.Utility
+	url = https://github.com/eframework-io/Unity.Utility.git
