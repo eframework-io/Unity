@@ -1,3 +1,24 @@
+[submodule "Packages/Unity.Asset"]
+	path = Packages/Unity.Asset
+	url = https://github.com/eframework-io/Unity.Asset.git
+[submodule "Packages/Unity.Editor"]
+	path = Packages/Unity.Editor
+	url = https://github.com/eframework-io/Unity.Editor.git
+[submodule "Packages/Unity.FairyGUI"]
+	path = Packages/Unity.FairyGUI
+	url = https://github.com/eframework-io/Unity.FairyGUI.git
+[submodule "Packages/Unity.MVVM"]
+	path = Packages/Unity.MVVM
+	url = https://github.com/eframework-io/Unity.MVVM.git
+[submodule "Packages/Unity.Puer"]
+	path = Packages/Unity.Puer
+	url = https://github.com/eframework-io/Unity.Puer.git
+[submodule "Packages/Unity.UIPlugin"]
+	path = Packages/Unity.UIPlugin
+	url = https://github.com/eframework-io/Unity.UIPlugin.git
+[submodule "Packages/Unity.Updater"]
+	path = Packages/Unity.Updater
+	url = https://github.com/eframework-io/Unity.Updater.git
 [submodule "Packages/Unity.Utility"]
 	path = Packages/Unity.Utility
 	url = https://github.com/eframework-io/Unity.Utility.git
